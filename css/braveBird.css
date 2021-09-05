@@ -21,7 +21,7 @@
 }
 .bird {
     position: absolute;
-    width: 100px;
+    width: 50px;
     height: auto;
     left: calc(50% - 30px);
     bottom: 50%;
@@ -46,7 +46,7 @@
     border: 2px solid #222;
     border-radius: 4px;
 }
-.barrier .body {
+.barrier .corpo {
     height: 150px;
     width: 110px;
     background: linear-gradient(90deg, #333, #999);
@@ -60,6 +60,7 @@
     font-size: 45px;
     font-family: 'Press Start 2P', cursive;
     color: gold;
+    z-index: 1;
 }
 .coin {
     position: absolute;
