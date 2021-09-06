@@ -6,9 +6,10 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/gabrielcastroo/bv-bird?color=green&style=plastic)
 
-<img src="assets/braveBirdPreview.gif" alt="preview">
+<img src="assets/BraveBirdPreview.gif" alt="preview">
+<img src="assets/screenshot.png" alt="fotopreview">
 
-O projeto consiste em um jogo inspirado no já bastante conhecido FlappyBird, com o diferencial de ter ser usado apenas os fundamentos de Html, Css e javascript com a manipulação da DOM.
+O projeto consiste em um jogo inspirado no já bastante conhecido FlappyBird, usado apenas os fundamentos de Html, Css e javascript com a manipulação da DOM.
 
 ### Tecnologias Utilizadas
 
