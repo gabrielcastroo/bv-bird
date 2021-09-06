@@ -142,7 +142,6 @@ function BraveBird() {
     barreiras.pares.forEach(par => areaDoJogo.appendChild(par.elemento))
 
     this.start = () => {
-        // loop do jogo
         const temporizador = setInterval(() => {
             barreiras.animar()
             passaro.animar()
